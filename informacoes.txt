@@ -1,0 +1,191 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 12 Sep 2023 13:50:08 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: keep-alive
+Location: https://pt.org.br/
+X-Zen-Fury: 83a0d42865108e901b67cebb2afd0abd465fbcf2
+X-Cache-Status: NOTCACHED
+X-Cdn: Served-By-Zenedge
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BOwYKeqKyrLyJ8p6jMKc2YQ5FnoX64Sp7HPJHhWsRlONRShOeZtW1sCZJ8aNKa%2FVW8FTFC%2FHb2RBDmGhCHp%2BtTOvDsrTGvC2iP69oTbkvNgzSokgbgNbbOLEw18%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 80589e2208a08c6b-EWR
+alt-svc: h3=":443"; ma=86400
+
+e2
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://pt.org.br/">here</a>.</p>
+</body></html>
+
+
+HTTP/1.1 429 Too Many Requests
+Connection: keep-alive
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 12 Sep 2023 16:58:54 GMT
+X-Served-By: cache-gig2250056-GIG
+X-Cache: MISS
+X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+
+HTTP/1.1 429 Too Many Requests
+Connection: keep-alive
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 12 Sep 2023 16:59:08 GMT
+X-Served-By: cache-gig2250049-GIG
+X-Cache: MISS
+X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+Content-Length: 2955
+Content-Type: text/html; charset=utf-8
+x-wix-request-id: 1694779225.17259548158110180
+Age: 0
+X-Content-Type-Options: nosniff
+Server: Pepyaka/1.19.10
+Accept-Ranges: bytes
+Date: Fri, 15 Sep 2023 12:00:25 GMT
+X-Served-By: cache-cgh11154-CGH
+X-Cache: MISS
+Vary: Accept-Encoding
+server-timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly
+X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==,GXNXSWFXisshliUcwO20NQ1aV/eYQaI5OrqNssi0Z4LpA5pNVErDOZ6Qupg9tyLw,qquldgcFrj2n046g4RNSVP/NH0r6rw5wLx5Fv4oFM3Wa46R9xNIlpQ4eUPYpBuqs,2d58ifebGbosy5xc+FRalk1nMI3/nDWMXNsPMkV/45a0A0W2dl23cPBlUJ8lnIwppQYUw4hGGnCYObOxlKwhUIty8Wyn8HXMUaEZCnJ7PEc=,2UNV7KOq4oGjA5+PKsX47GnqU7p73dGwXKj054HysGqa46R9xNIlpQ4eUPYpBuqs,R8nVwPJv9QJL1m78OROO+GWGnOrY5ZL4MIcNHh9Sp1g=,EJEd9b7dmFptmyI1HOovvy1YWpKg5U4c9KrQsWQ0IIYSO5XmrrCSQNDehIjmfew3lnbW5tQJQK7UJs0ZKJm5qQ==
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+  <!--  -->
+
+<!doctype html>
+<!--
+    -->
+<html ng-app="wixErrorPagesApp">
+<head>
+  <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title ng-bind="'page_title' | translate"></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+  <meta name="robots" content="noindex, nofollow">
+  <!--  -->
+    <link type="image/png" href="//www.wix.com/favicon.ico" rel="shortcut icon">
+  <!--  -->
+  <link href="//static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css" rel="stylesheet" type="text/css" />
+  <!--  -->
+  <link rel="stylesheet" href="//static.parastorage.com/services/wix-public/1.719.0/styles/error-pages/styles.css">
+  <!--  -->
+</head>
+<body lang="en" ng-controller="ErrorPageController as errorPageCtrl" class="error-page-app" ng-class="{'secondary-background': isSecondaryBackground}">
+<!--[if lt IE 9]>
+<script src="//static.parastorage.com/services/third-party/es5-shim/2.1.0/es5-shim.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="//static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js"></script>
+<!--<![endif]-->
+
+<script src="//static.parastorage.com/services/third-party/angularjs/1.2.28/angular.min.js"></script>
+  <!--  -->
+<script src="//static.parastorage.com/services/third-party/angularjs/1.2.28/i18n/angular-locale_en.js"></script>
+<script src="//static.parastorage.com/services/third-party/angular-translate/1.1.1/angular-translate.min.js"></script>
+
+<script src="//static.parastorage.com/services/wix-public/1.719.0/scripts/error-pages/locale/messages_en.js"></script>
+  <!--  -->
+<script src="//static.parastorage.com/services/wix-public/1.719.0/scripts/error-pages/app.js"></script>
+  <!--  -->
+
+<script>
+  angular.module('wixErrorPagesApp').constant('staticsUrl', '//static.parastorage.com/services/wix-public/1.719.0/');
+  angular.module('wixErrorPagesApp').constant('baseDomain', 'wix.com');
+  angular.module('wixErrorPagesApp').constant('language', 'en');
+  angular.module('wixErrorPagesApp').constant('errorCode', {code: 'ConnectYourIP'});
+  angular.module('wixErrorPagesApp').constant('data', {});
+  angular.module('wixErrorPagesApp').constant('exceptionName', '');
+  angular.module('wixErrorPagesApp').constant('serverErrorCode', '404');
+</script>
+<div ng-cloak ng-include="errorPageCtrl.errorPageUrl">
+  <div class="non-angular-supported-browser-wrapper">
+    <h1 class="non-angular-supported-browser-header">Error ConnectYourIP occurred</h1>
+    <div class="non-angular-supported-browser-link">
+      <span>Regardless, we recommend you to <a href="http://browsehappy.com/">update your browser.</a></span>
+    </div>
+  </div>
+</div>
+<!-- verification -->
+<!-- end verification -->
+</body>
+</html>
+
+
+
+
+
+HTTP/1.1 403 Forbidden
+Server: CloudFront
+Date: Sun, 24 Sep 2023 19:54:42 GMT
+Content-Type: text/html
+Content-Length: 915
+Connection: keep-alive
+X-Cache: Error from cloudfront
+Via: 1.1 cf3d1f97e96a04720e63ac8b1955ac3e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-C3
+X-Amz-Cf-Id: 1nbze2sER9_8bEcN4dzw-wmOTaFimSXudMalR71R-f_V5bN5ZdNSnA==
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+Bad request.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 1nbze2sER9_8bEcN4dzw-wmOTaFimSXudMalR71R-f_V5bN5ZdNSnA==
+</PRE
+HTTP/1.1 403 Forbidden
+Server: CloudFront
+Date: Sun, 24 Sep 2023 19:55:02 GMT
+Content-Type: text/html
+Content-Length: 915
+Connection: keep-alive
+X-Cache: Error from cloudfront
+Via: 1.1 cf3d1f97e96a04720e63ac8b1955ac3e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-C3
+X-Amz-Cf-Id: kYCIupyorltZWjm3HcFrlZu66pQD4yjK8hl-zzzoMm-UUSRluTIPLA==
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+Bad request.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: kYCIupyorltZWjm3HcFrlZu66pQD4yjK8hl-zzzoMm-UUSRluTIPLA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
